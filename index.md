@@ -10,3 +10,7 @@ Detta va ju kul
 ``` python
 import yomama as ym
 ```
+- [ ] Detta ska jag göra
+- [ ] Detta borde jag göra
+- [ ] Detta kommer jag nog inte göra men det ska vara här ändå
+
